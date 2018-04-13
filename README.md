@@ -1,7 +1,5 @@
 This is a short note for my friends at FedEx. It also applicable to the general public.
 
-Read from different data sources @FedEx
-
 1. Install Python
 
 2. Install Jupyter
